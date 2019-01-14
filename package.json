@@ -1,6 +1,6 @@
 {
   "name": "dao-tinypng",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于 nodejs的tinypng命令行压缩工具",
   "main": "index.js",
   "bin": {
